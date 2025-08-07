@@ -41,8 +41,7 @@ To create world-class digital solutions that drive growth, empower innovation, a
 
 ## Connect with Us
 - Website: [Coming Soon]
-- Email: bluepicktechnologies@gmail.com
-- LinkedIn: [Insert LinkedIn Page if available]
+- Email: bluepeaktechnologiesltd@gmail.com
 
 ---
 
