@@ -1,6 +1,6 @@
 # Welcome to BLUEPEAK TECHNOLOGIES LTD
 
-![Bluepeak Logo](link-to-logo-coming-soon)
+![Bluepeak Logo](https://github.com/bluepeaktechnologies/bluepeaktechnologies/blob/main/assets/logo-white.PNG)
 
 > Driving Innovation Through Software, Cloud, and Emerging Technologies.
 
